@@ -512,6 +512,9 @@ section{
 .contact-content-con {
     display:  flex;
     padding-top: 3.5rem;
+    margin:auto;
+    width: 50%;
+    align-items: center;
     .left-contact{
         flex: 2;
         h4 {
@@ -529,6 +532,7 @@ section{
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
+                
                 p {
                     margin: .3rem 0 !important;
                     padding: 0 !important;
