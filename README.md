@@ -1,2 +1,3 @@
 # First_portfoliopage
-This is my first portfolio page testi testi
+Portfolio page. 
+HTML,CSS,SASS,Javascript
